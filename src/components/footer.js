@@ -13,7 +13,7 @@ const Footer = () => {
     `)
     return (
         <footer>
-            <p>Created by {data.site.siteMetadata.author}, © 2020 Powered by Gatsby</p>
+            <p>Created by {data.site.siteMetadata.author}, © 2020 Powered by Gatsby,  Illustration by Natasha Remarchuk from Icons8</p>
         </footer>
     )
 }
